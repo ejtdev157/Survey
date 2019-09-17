@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    
+
+    <main>
+      <h1 id="title"> Hair Salon Survey </h1>
+      <p> Please fill out our survey to rate your experience! </p>
+      
+      <form id="survey-form"> 
+        First name: <br>
+        <input type="text" name="firstname" id="name"><br>
+        Last name: <br>
+        <input type="text" name="lastname"><br>
+      </form>
+      
+      
+      
+      
+    </main>
+  </body>
+</html>
